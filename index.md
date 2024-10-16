@@ -4,13 +4,13 @@
 # C'est quoi ce truc ?
 
 
-[AK47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47){:target="_blank" }, la réponse française à [Sleaford Mods](https://www.sleafordmods.com/){:target="_blank" }. Je me suis surpris plusieurs fois à vouloir visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK47 comme une fiction boostée au Casa, il était de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
+[AK 47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47){:target="_blank" }, la réponse française à [Sleaford Mods](https://www.sleafordmods.com/){:target="_blank" }. Je me suis surpris plusieurs fois à vouloir visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK 47 comme une fiction boostée au Casa, il était temps de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
 
 Avant de commencer quelques précisions :
 
-- Nous prendrons tout ce qui est dit dans les textes au premier degré et nous essayons de nous géolocaliser en prenant comme hypothèse qu’Astaffort est le centre du monde.
+- Nous prendrons tout ce qui est dit dans les textes au premier degré et nous essaierons de nous géolocaliser en prenant comme hypothèse qu’Astaffort est le centre du monde. Oui, c'est bizarre.
 
-- Je n’ai jamais vécu au sud de la Loire et jamais mis les pieds dans le Lot-et-Garonne. Je ne connais pas la géographie des environs. C’est en partie pourquoi j’ai entrepris ce petit projet : pour mieux cerner à que horizon s'étend l’univers d’Astaffort Mods.
+- Je n’ai jamais vécu au sud de la Loire et encore moins mis les pieds dans le Lot-et-Garonne. Je ne connais pas la géographie des environs. C’est en partie pourquoi j’ai entrepris ce petit projet : pour mieux cerner à que horizon s'étend l’univers d’Astaffort Mods.
 
 - Pour des raisons pratiques, seules les villes et départements français cités sont représentés. Désolé pour la Belgique (*le 47*) et Kingston (*Jeunes du dimanche*), vous existez dans nos cœurs.
 
