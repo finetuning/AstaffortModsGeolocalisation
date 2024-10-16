@@ -1,0 +1,182 @@
+@charset "UTF-8";
+
+:root {
+  --theme-primary: #076DDD;
+  --theme-body: #171E27;
+  --theme-link: #076DDD;
+  --theme-heading: #0f172a;
+  --theme-muted: #64748b;
+  --theme-border: #EBEDF0;
+  --theme-bg: #fff;
+  --theme-code-bg: #fafafa; /* Lighter background for code blocks */
+  --theme-code-color: #23272E;
+  --theme-quote-bg: #d4e7fd;
+  --theme-quote-border: #076DDD;
+  --max-content-width: 48rem; /* Max width inspired from modest.css */
+  --content-padding: 1rem;
+}
+
+/* Body and text */
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: var(--theme-body);
+  background-color: var(--theme-bg);
+  line-height: 1.85;
+  margin: 0 auto;
+  max-width: var(--max-content-width); /* Constrain the content width */
+  padding: var(--content-padding);
+  box-sizing: border-box;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+  padding-left: 1.5rem; /* Space for the left border */
+  border-bottom: none !important;
+}
+
+/* Heading borders */
+h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  content: '';
+  position: absolute;
+  left: -1rem; /* Move the border outside the container */
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  border-radius: 2px; /* Rounded border edges */
+}
+
+h1::before { background-color: #E4374B; }
+h2::before { background-color: #0EB54F; }
+h3::before { background-color: #076DDD; }
+h4::before { background-color: #876CE0; }
+h5::before { background-color: #D2A852; }
+h6::before { background-color: #E0E5D5; }
+
+
+h1 {
+  font-size: 3.998rem;
+}
+
+h2 {
+  font-size: 2.827rem;
+}
+
+h3 {
+  font-size: 1.999rem;
+}
+
+h4 {
+  font-size: 1.414rem;
+}
+
+h5 {
+  font-size: 1.121rem;
+}
+
+h6 {
+  font-size: .88rem;
+}
+
+/* Links */
+a {
+  color: var(--theme-link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+
+/* Reset GitHub's default blockquote styles */
+.markdown-body blockquote {
+  border-left: none !important;
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Reapply custom blockquote styles */
+.markdown-body blockquote {
+  position: relative;
+  background-color: var(--theme-quote-bg) !important; /* Reapply background color */
+  padding: 20px 1rem !important; /* Ensure padding is reapplied */
+  margin: 1.5rem 0 !important;
+  font-style: italic !important;
+  box-sizing: border-box;
+}
+
+/* Blockquote border */
+.markdown-body blockquote::before {
+  content: '';
+  position: absolute;
+  left: -1rem; /* Move the border outside the container */
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background-color: var(--theme-quote-border) !important;
+  border-radius: 2px;
+}
+
+/* Code Blocks */
+pre, code {
+  background-color: var(--theme-code-bg);
+  color: var(--theme-code-color);
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 0.85rem;
+}
+
+pre {
+  line-height: 1.25;
+  overflow-x: auto;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+th, td {
+  padding: 0.75em;
+  border: 1px solid var(--theme-border);
+}
+
+thead {
+  background-color: var(--theme-muted);
+  color: white;
+}
+
+/* Responsive adjustments */
+@media (max-width: 48rem) {
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2.827rem;
+  }
+
+  h2 {
+    font-size: 1.999rem;
+  }
+}
