@@ -10,7 +10,7 @@ Avant de commencer quelques précisions :
 
 - Nous prendrons tout ce qui est dit dans les textes au premier degré et nous essaierons de nous géolocaliser en prenant comme hypothèse qu’Astaffort est le centre du monde. Oui, c'est bizarre.
 
-- Je n’ai jamais vécu au sud de la Loire et encore moins mis les pieds dans le Lot-et-Garonne. Je ne connais pas la géographie des environs. C’est en partie pourquoi j’ai entrepris ce petit projet : pour mieux cerner à que horizon s'étend l’univers d’Astaffort Mods.
+- Je n’ai jamais vécu au sud de la Loire et encore moins mis les pieds dans le Lot-et-Garonne. Je ne connais pas la géographie des environs. C’est en partie pourquoi j’ai entrepris ce petit projet : pour mieux cerner à quel horizon s'étend l’univers d’Astaffort Mods.
 
 - Pour des raisons pratiques, seules les villes et départements français cités sont représentés. Désolé pour la Belgique (*le 47*) et Kingston (*Jeunes du dimanche*), vous existez dans nos cœurs.
 
