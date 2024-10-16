@@ -14,7 +14,7 @@ Avant de commencer quelques précisions :
 
 - Pour des raisons pratiques, seules les villes et départements français cités sont représentés. Désolé pour la Belgique (*le 47*) et Kingston (*Jeunes du dimanche*), vous existez dans nos cœurs.
 
-- Certains lieux ne correspondent pas à une adresse, mais à une zone (ville, département, rocade, canal…), j’ai fait le choix de choisir un point arbitraire pour le représenter (en général la Mairie ou la Préfecture), afin de ne pas surcharger la carte.
+- Certains lieux ne correspondent pas à une adresse, mais à une zone (ville, département, rocade, canal…), j’ai sélectionné un point arbitraire pour le représenter (en général la Mairie ou la Préfecture), afin de ne pas surcharger la carte.
 
 - Les adresses sont issues de la Base Adresse Nationale. C’est parfois pas hyper précis car certains lieux (le panneau attention chevreuils sur l’A62, le canal de Golfech, mais aussi certaines mairies), ne disposent pas d’adresse normalisée. Pour chacune des localisation, une adresse [What3Words](https://what3words.com){:target="_blank" } est disponible en description avec une précision à 3 mètres. Moderne.
 
