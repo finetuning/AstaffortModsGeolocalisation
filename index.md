@@ -211,7 +211,7 @@ Une autre hypothèse pourrait être que le véhicule ait été loué à Agen, do
 
 ![04-Champignon-BarDuCommerce4-10-04_17-48.png](img/04-Champignon-BarDuCommerce4-10-04_17-48.png)
 
-Le bar du commerce est ouvert depuis 2016, en reprise d’activité d’un établissement appelé Au bon accueil. Il est situé au cœur d’Astaffort à proximité immédiates d’autres lieux évoqués : marché, kiosque, Music Halle, boulangerie. Également restaurant, l’établissement recueille de bonne critiques.
+Le bar du commerce est ouvert depuis 2016, en reprise d’activité d’un établissement appelé Au bon accueil. Il est situé au cœur d’Astaffort à proximité immédiate d’autres lieux évoqués : marché, kiosque, Music Halle, boulangerie. Également restaurant, l’établissement recueille de bonnes critiques.
 
 Sur son [site web](https://bar-du-commerce.eatbu.com){:target="_blank" }, on peut apercevoir les tarifs des boissons : 2,5€ l’anis, on peut comprendre que l’apéro se prolonge parfois.
 
