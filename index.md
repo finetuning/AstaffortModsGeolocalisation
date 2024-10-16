@@ -83,7 +83,7 @@ Cela fait partie des rares endroits que je n’ai réussi à localiser. Vos idé
 
 3h50 de route aller, voilà un bon shift !
 
-Le road trip égrène 19 références géographiques qui nous permettent de suivre plus ou moins précisément le périple du narrateur. On ne va pas tout détailler, vous pouvez vous reporter à la carte. Certains lieux méritent tout de même quelques explications.
+Le road trip égrène 19 références géographiques qui nous permettent de suivre plus ou moins précisément le périple du narrateur. On ne va pas tout détailler, vous pouvez vous reporter à [la carte](https://umap.openstreetmap.fr/fr/map/astaffort-mods-geolocalisation-album-ak47_1123722?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true){:target="_blank" }. Certains lieux méritent tout de même quelques explications.
 
 >
 > Je me repère avec Golfech
