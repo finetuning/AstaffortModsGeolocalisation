@@ -169,7 +169,7 @@ On commence cette virée anxiogène par le péage de l’autoroute E72, gare de 
 
 ![026-A620-GoogleMaps.png](img/026-A620-GoogleMaps.png)
 
-Epineuse question que je me garderais bien trancher. J’avoue ne pas avoir tout saisi [aux explications](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_de_Toulouse){:target="_blank" } sur le périphérique toulousain. Il compte actuellement 2X3 voies actuellement. J’ai lu des choses étonnantes dur des projets d’agrandissement, notamment en le surélevant ? Tu prends rocade Inférieure ou rocade supérieure ?
+Epineuse question que je me garderais bien trancher. J’avoue ne pas avoir tout saisi [aux explications](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_de_Toulouse){:target="_blank" } sur le périphérique toulousain. Il compte actuellement 2X3 voies. J’ai lu des choses étonnantes ur des projets d’agrandissement, notamment en le surélevant ? Tu prends rocade Inférieure ou rocade supérieure ?
 
 >
 > Pas v’nu pour un concert de world à la Mounède
@@ -299,7 +299,7 @@ Enfin, nulle trace de marché le mercredi, mais il y en existe le [lundi](https:
 > Denis t’es rien qu’un con. Je viendrai plus faire mon contrôle technique chez toi. Je préfère encore me faire chier à aller le faire à Castelculier.
 >
 
-Il existe un garage à Astaffort, mais celui-ci ne propose pas de contrôle technique. En revanche, il est aisé de trouver le centre de Castelcullier.
+Il existe un garage à Astaffort, mais celui-ci ne propose pas de contrôle technique. En revanche, il est aisé de trouver le centre de contrôle technique de Castelculier.
 
 ![055-1751D813-GoogleMaps.png](img/055-1751D813-GoogleMaps.png)
 
