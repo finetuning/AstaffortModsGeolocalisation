@@ -4,7 +4,7 @@
 # C'est quoi ce truc ?
 
 
-[AK 47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47){:target="_blank" }, la réponse française à [Sleaford Mods](https://www.sleafordmods.com/){:target="_blank" }. Je me suis surpris plusieurs fois à vouloir visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK 47 comme une fiction boostée au Casa, il était temps de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
+[AK 47 est le premier album de Astaffort Mods](https://astaffortmods.bandcamp.com/album/ak-47){:target="_blank" }, la réponse française à [Sleaford Mods](https://www.sleafordmods.com/){:target="_blank" }. Je me suis surpris plusieurs fois à vouloir retrouver et visualiser les lieux évoqués au long de l’album. Faisant mouche lors de ces premières tentatives, j’ai systématisé la démarche. Alors que j’avais abordé AK 47 comme une fiction boostée au Casa, il était temps de se poser une question : et si tout était vrai ? C’est parti pour une enquête visuelle en sources ouvertes.
 
 Avant de commencer quelques précisions :
 
