@@ -18,7 +18,7 @@ Avant de commencer quelques précisions :
 
 - Les adresses sont issues de la [Base Adresse Nationale](https://adresse.data.gouv.fr/#18.59/44.06395/0.65165){:target="_blank" }. C’est parfois pas hyper précis car certains lieux (le panneau attention chevreuils sur l’A62, le canal de Golfech, mais aussi certaines mairies), ne disposent pas d’adresse normalisée. Pour chacune des localisations, une adresse [What3Words](https://what3words.com){:target="_blank" } est disponible en description avec une précision à 3 mètres. Moderne.
 
-Dernier truc : ça à l’apparence du sérieux, mais on est d’accord, tout ça c’est pour rigoler, ok ?
+Dernier truc : ça a l’apparence du sérieux, mais on est d’accord, tout ça c’est pour rigoler, ok ?
 
 # Cartographie des lieux
 
